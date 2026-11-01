@@ -1,0 +1,7 @@
+ID,Ad_Birim,Rol,Beklentiler,Guc_1_5,Ilgi_1_5,Mevcut_Katilim,Hedef_Katilim,Strateji,Iletisim_Yontemi,Siklik,Sorumlu
+S-01,Genel Mudur,Sponsor,Zamaninda ve butce icinde teslim,5,5,Destekleyici,Lider,Yakindan yonet,Yonetim ozeti ve toplanti,Aylik,Proje Yoneticisi
+S-02,Finans Birimi,Butce onaylayici,Butce disina cikilmamasi,4,3,Tarafsiz,Destekleyici,Tatmin et,Butce raporu,Aylik,Proje Yoneticisi
+S-03,Son Kullanicilar,Kullanici,Kolay kullanim ve egitim,2,5,Tarafsiz,Destekleyici,Bilgilendir ve dahil et,Demo ve e-posta,Iki haftada bir,Is Analisti
+S-04,Bilgi Guvenligi,Duzenleyici,Politikalara uyum,4,2,Bilincsiz,Destekleyici,Tatmin et,Gozden gecirme toplantisi,Kilometre tasi basina,Teknik Lider
+S-05,Satin Alma,Tedarik surecleri,Sozlesme ve teslim takibi,2,3,Tarafsiz,Destekleyici,Izle ve bilgilendir,E-posta,Aylik,Proje Yoneticisi
+S-06,Destek Ekibi,Devralan ekip,Devir oncesi dokumantasyon,3,4,Tarafsiz,Destekleyici,Yakindan yonet,Calisma oturumu,Iki haftada bir,Teknik Lider

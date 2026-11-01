@@ -1,0 +1,8 @@
+ID,Tur,Risk_Tanimi,Kategori,Olasilik_1_5,Etki_1_5,Skor,Yanit_Stratejisi,Yanit_Aksiyonu,Sahibi,Tetikleyici,Durum,Son_Guncelleme
+R-01,Tehdit,Anahtar gelistirici ayrilirsa bilgi kaybi nedeniyle takvim 3 hafta uzayabilir,Kaynak,3,4,12,Azalt,Cift yonlu bilgi paylasimi ve dokumantasyon,Proje Yoneticisi,Onemli kisinin ayrilma bildirimi,Acik,2026-01-15
+R-02,Tehdit,Gereksinimler netlesmezse yeniden is cikar,Kapsam,4,3,12,Azalt,Prototip ve haftalik onay toplantisi,Is Analisti,Birden fazla degisiklik talebi,Acik,2026-01-15
+R-03,Firsat,Hazir bilesen kullanilirsa gelistirme 2 hafta kisalabilir,Teknik,2,3,6,Gelistir,Kavram kanitlama calismasi,Teknik Lider,Uygun bilesen bulunmasi,Acik,2026-01-15
+R-04,Tehdit,Tedarikci teslimati gecikirse test baslangici kayar,Tedarik,3,4,12,Transfer,Sozlesmeye gecikme cezasi maddesi eklenmesi,Satin Alma,Siparis onayinda gecikme,Acik,2026-01-15
+R-05,Tehdit,Kullanici kabul testlerine katilim dusuk kalirsa hatalar gec bulunur,Paydas,3,3,9,Azalt,Test takviminin yonetici onayiyla sabitlenmesi,Proje Yoneticisi,Test oturumlarina katilimin %50 altinda kalmasi,Acik,2026-01-15
+R-06,Tehdit,Altyapi yetersiz kalirsa canli gecis performans sorunlari yasanabilir,Teknik,2,5,10,Azalt,Yuk testi ve kapasite planlamasi,Teknik Lider,Test ortaminda yanit suresi esik asimi,Acik,2026-01-15
+R-07,Tehdit,Butce tavani asilirsa kapsam daralabilir,Maliyet,2,4,8,Kabul et,Yedek akce ayrilmasi ve aylik maliyet izleme,Proje Yoneticisi,Maliyet performans indeksinin 0.9 altina inmesi,Acik,2026-01-15
